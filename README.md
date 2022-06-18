@@ -18,6 +18,8 @@ When looking at data from all three lots and treating the data as one group, the
 ### The following PSI metrics for each lot: mean, median, variance, and standard deviation
 ![Lot_Sum](https://user-images.githubusercontent.com/98991575/174440243-c4457940-b916-4956-9d42-518458cdda01.png)
 
+Reviewing the data show that Lot 1 and Lot 2 are both within design specifications.  Both lots have the same calculated mean and medium.  Lot 3 is more variable than the other two lots.  The calculated variance for Lot 3 exceeds the manufacturing specs.
+
 ## T_Test on Suspension Coils
 Using the dataset containing the results from multiple production lots, t-tests were preformed to determine if all manufacturing lots and each lot individually are statistically different from the population mean of 1,500 pounds per square inch.
 
