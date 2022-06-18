@@ -22,12 +22,15 @@ T-test for all lots:
 ![T_all](https://user-images.githubusercontent.com/98991575/174441379-391c2056-461d-44cd-be03-f06f5fb83cac.png)
 
 T-test for lot 1:
+
 ![T1](https://user-images.githubusercontent.com/98991575/174441383-b70b648f-174b-4554-a089-e13fa4d57281.png)
 
 T-test for lot 2:
+
 ![T2](https://user-images.githubusercontent.com/98991575/174441388-4eeef6e7-0b3f-45de-b60b-91f55c7651df.png)
 
 T-test for lot 3:
+
 ![T3](https://user-images.githubusercontent.com/98991575/174441392-b0e9e686-ae98-49f1-b24a-96448d236231.png)
 
 ## A Study Comparing the MechaCar to the Competition
