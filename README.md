@@ -39,5 +39,7 @@ T-test for lot 3:
 
 ![T3](https://user-images.githubusercontent.com/98991575/174441392-b0e9e686-ae98-49f1-b24a-96448d236231.png)
 
+The values of the one-sample t-test shows that Lot 1 and Lot 2 are not statistically different from the population mean.  Lot 3 p-value is 0.04168 which is below the signigicance level.  This shows there is evidence that Lot 3 mean suspension coil PSI is statistically different from the population mean.
+
 ## A Study Comparing the MechaCar to the Competition
 
