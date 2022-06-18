@@ -43,3 +43,4 @@ The values of the one-sample t-test shows that Lot 1 and Lot 2 are not statistic
 
 ## A Study Comparing the MechaCar to the Competition
 
+One thing that is common to rate a car is it's time to go from 0 mph to 60 mph, along with the mpg of the car.  One could gather the 0 to 60 mph time for many different makes and manufaturers of cars and compair them to the MechaCar.  One could create a study that tests wether or not 0 to 60 mph time of the MechCar is statistically different from a collection of other compairable vehicles.  The null hypothesis would be that there is not statistical difference between MechaCar 0 to 60 mph time  versus the other vehicles.  The statistical test to test the hypothesis would be the t-test. The population data will be the 0 to 60 mph time of all comparable vehicles.  We could make a few runs with a few MechaCar to gather the data points needed.
