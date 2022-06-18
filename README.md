@@ -13,6 +13,8 @@ The dataset contains the results from multiple production lots.  The weight capa
 ### The Suspension coil's PSI continuous variable across all manufacturing lots
 ![Tot_Sum](https://user-images.githubusercontent.com/98991575/174440231-8f04958e-a29a-4588-970b-3579763ec1d3.png)
 
+When looking at data from all three lots and treating the data as one group, the overall calculated variance is within specifications.
+
 ### The following PSI metrics for each lot: mean, median, variance, and standard deviation
 ![Lot_Sum](https://user-images.githubusercontent.com/98991575/174440243-c4457940-b916-4956-9d42-518458cdda01.png)
 
