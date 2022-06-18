@@ -18,6 +18,7 @@ The dataset contains the results from multiple production lots.  The weight capa
 Using the dataset containing the results from multiple production lots, t-tests were preformed to determine if all manufacturing lots and each lot individually are statistically different from the population mean of 1,500 pounds per square inch.
 
 T-test for all lots:
+
 ![T_all](https://user-images.githubusercontent.com/98991575/174441379-391c2056-461d-44cd-be03-f06f5fb83cac.png)
 
 T-test for lot 1:
