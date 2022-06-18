@@ -5,6 +5,8 @@ AutosRUs' is reviewing the production data of the newest prototype for insights 
 The dataset is mpg test results for 50 prototype MechaCars.  The prototypes were produced using multiple design specifications to identify ideal vehicle performance.  A linear regression model was created to predict the mpg of the prototypes.
 ![MPG1](https://user-images.githubusercontent.com/98991575/174439872-dccf7187-806c-4ae2-a3bc-e6d40db087b4.png)
 
+The p-value is greater than 0.05, so the data is considered normally distributed. Looks like vehicle_length and ground_clearance has little effect on the MPG Pr value is so high. The model does an adequate job of predicting the mpg of the MechaCar prototypes because the r-squared value was 0.71.  So  that roughly 71% of the time the model will predict mpg values correctly.
+
 
 ## Summary Statistics on Suspension Coils
 The dataset contains the results from multiple production lots.  The weight capacities of multiple suspension coils were tested to determine if the manufacturing process is consistent across production lots.
